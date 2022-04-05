@@ -48,9 +48,9 @@ Welcome to my Github page!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📝 Latest Blog Posts
-
 - [BulkBoto: Python package for fast and parallel transferring a bulk of files to S3 based on boto3!](http://www.sefidian.com/2022/03/28/bulkboto-python-package-for-fast-and-parallel-transferring-a-bulk-of-files-to-s3-based-on-boto3/)
 - [Walk-forward optimization for algorithmic trading strategies on cloud architecture](http://www.sefidian.com/2021/12/26/walk-forward-optimization-for-algorithmic-trading-strategies-on-a-cloud-architecture/)
+- Find out more at my [Blog](http://www.sefidian.com/archives/)
 
 ### 📈 GitHub Stats
 ![iamirmasoud github stats](https://github-readme-stats.vercel.app/api?username=iamirmasoud&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,prs)
