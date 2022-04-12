@@ -63,7 +63,7 @@ Welcome to my Github page!
 [![Website Badge](https://img.shields.io/badge/-sefidian.com-informational?style=flat-square&labelColor=informational&logo=appveyor&logoColor=white&link=https://sefidian.com/)](https://sefidian.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Amir%20Masoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-masoud/)](https://www.linkedin.com/in/amir-masoud)
 [![GitHub Badge](https://img.shields.io/badge/-iamirmasoud-black?style=flat-square&logo=github)](https://github.com/iamirmasoud)
-[![Gitlab Badge](https://img.shields.io/badge/-amir--masoud-blueviolet?style=flat-square&logo=gitlab)](https://gitlab.com/amir_masoud)
+[![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=flat-square&logo=gitlab)](https://gitlab.com/amir_masoud)
 
 
 <!--
