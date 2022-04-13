@@ -60,11 +60,11 @@ Welcome to my Github page!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamirmasoud&layout=compact&theme=github_dark)](https://github.com/iamirmasoud/)
 
 
-[![Website Badge](https://img.shields.io/badge/-sefidian.com-informational?style=flat-square&labelColor=informational&logo=appveyor&logoColor=white&link=https://sefidian.com/)](https://sefidian.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Masoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-masoud/)](https://www.linkedin.com/in/amir-masoud)
-[![GitHub Badge](https://img.shields.io/badge/-iamirmasoud-black?style=flat-square&logo=github)](https://github.com/iamirmasoud)
-[![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=flat-square&logo=gitlab)](https://gitlab.com/amir_masoud)
-
+[![Website Badge](https://img.shields.io/badge/-sefidian.com-informational?style=style=for-the-badge&labelColor=informational&logo=appveyor&logoColor=white&link=https://sefidian.com/)](https://sefidian.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Amir%20Masoud-blue?style=style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-masoud/)](https://www.linkedin.com/in/amir-masoud)
+[![GitHub Badge](https://img.shields.io/badge/-iamirmasoud-black?style=style=for-the-badge&logo=github)](https://github.com/iamirmasoud)
+[![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=style=for-the-badge&logo=gitlab)](https://gitlab.com/amir_masoud)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/amir_masoud)
 
 <!--
 **iamirmasoud/iamirmasoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
