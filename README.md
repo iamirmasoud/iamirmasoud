@@ -8,7 +8,7 @@ Hi there👋, I'm <a href="https://www.sefidian.com/" target="_blank" rel="noref
 Welcome to my Github page!
 </h3>
 
-- 💻 I'm a Data Scientist/Machine Learning Engineer focusing on Algorithmic Trading and Recommendation Systems.
+- 💻 I'm a Machine Learning Engineer focusing on Algorithmic Trading and Recommendation Systems.
 - 📚 I have a Master's degree in Computer Engineering.
 - 🎹 I enjoy playing the piano and listening to music.
 
