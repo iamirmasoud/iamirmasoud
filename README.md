@@ -84,8 +84,9 @@ Welcome to my Github page!
 [![Linkedin Badge](https://img.shields.io/badge/-Amir%20Masoud-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-masoud/)](https://www.linkedin.com/in/amir-masoud)
 [![Gmail Badge](https://img.shields.io/badge/A.M.Sefidian@Gmail.COM-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:a.m.sefidian@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-iamirmasoud-black?style=for-the-badge&logo=github)](https://github.com/iamirmasoud)
-[![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=for-the-badge&logo=gitlab)](https://gitlab.com/amir_masoud)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/amir_masoud)
+<!-- [![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=for-the-badge&logo=gitlab)](https://gitlab.com/amir_masoud) -->
+
 
 <!--
 **iamirmasoud/iamirmasoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
