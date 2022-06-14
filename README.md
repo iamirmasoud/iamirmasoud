@@ -10,7 +10,9 @@ Welcome to my Github page!
 
 - 💻 I'm a Machine Learning Engineer focusing on Algorithmic Trading and Recommendation Systems.
 - 📚 I have a Master's degree in Computer Engineering.
+- 💙 My interests are with Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
 - 🎹 I enjoy playing the piano and listening to music.
+
 
 ### 💼 Technical Skills
 
@@ -58,14 +60,29 @@ Welcome to my Github page!
 - [Walk-forward optimization for algorithmic trading strategies on cloud architecture](http://www.sefidian.com/2021/12/26/walk-forward-optimization-for-algorithmic-trading-strategies-on-a-cloud-architecture/)
 - Find out more at my [Blog](http://www.sefidian.com/archives/)
 
-### 📈 GitHub Stats
-![iamirmasoud github stats](https://github-readme-stats.vercel.app/api?username=iamirmasoud&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamirmasoud&layout=compact&theme=github_dark)](https://github.com/iamirmasoud/)
 
+<h2 align="center">GitHub Stats 📊</h2>
+
+<h4 align="center">:eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{iamirmasoud}/count.svg" alt="CemRoot :: Visitor's Count" /></p>
+
+
+<!-- <h4 align="center">Profile Stats:</h4> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamirmasoud&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,prs" alt="iamirmasoud :: Profile Stats" /></p>
+
+<!-- <h4 align="center">Top Langs:</h4> -->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamirmasoud&layout=compact&theme=github_dark" alt="iamirmasoud :: Top Langs" /></p>
+
+---
+###  Let's connect 💭
 
 [![Website Badge](https://img.shields.io/badge/-sefidian.com-informational?style=for-the-badge&labelColor=informational&logo=Google-chrome&logoColor=white&link=https://sefidian.com/)](https://sefidian.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Amir%20Masoud-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-masoud/)](https://www.linkedin.com/in/amir-masoud)
+[![Gmail Badge](https://img.shields.io/badge/A.M.Sefidian@Gmail.COM-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:a.m.sefidian@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-iamirmasoud-black?style=for-the-badge&logo=github)](https://github.com/iamirmasoud)
 [![Gitlab Badge](https://img.shields.io/badge/-amir__masoud-blueviolet?style=for-the-badge&logo=gitlab)](https://gitlab.com/amir_masoud)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/amir_masoud)
@@ -83,4 +100,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📈 GitHub Stats
+![iamirmasoud github stats](https://github-readme-stats.vercel.app/api?username=iamirmasoud&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamirmasoud&layout=compact&theme=github_dark)](https://github.com/iamirmasoud/)
+
 -->
