@@ -64,7 +64,7 @@ Welcome to my Github page!
 
 <h2 align="center">GitHub Stats 📊</h2>
 
-<h4 align="center">:eyes:</h4>
+<!-- <h4 align="center">:eyes:</h4> -->
 
 <p align="center"><img src="https://profile-counter.glitch.me/{iamirmasoud}/count.svg" alt="CemRoot :: Visitor's Count" /></p>
 
