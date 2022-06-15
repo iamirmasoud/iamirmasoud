@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 - 💻 I'm a Machine Learning Engineer focusing on Algorithmic Trading and Recommendation Systems.
 - 📚 I have a Master's degree in Computer Engineering.
-- 💙 My interests are with Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
+- 💙 My interests are Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
 - 🎹 I enjoy playing the piano and listening to music.
 
 
