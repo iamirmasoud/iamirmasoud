@@ -10,7 +10,7 @@ Welcome to my Github page!
 
 - 💻 I'm a Machine Learning Engineer who loves learning, developing software, and working on AI projects.
 - 📚 I have a Master's degree in Computer Engineering.
-- 💙 My interests are Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
+- 💙 My fields of interest are Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
 - 🎹 I enjoy playing the piano and listening to music.
 
 
