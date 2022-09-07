@@ -57,9 +57,10 @@ Welcome to my Github page!
 
 ### 📝 Latest Blog Posts
 - [Audio source separation (vocal remover) system based on Deep Learning](http://www.sefidian.com/2022/08/01/audio-source-separation-system-based-on-deep-learning/)
+- [Walk-forward optimization for algorithmic trading strategies on cloud architecture](http://www.sefidian.com/2021/12/26/walk-forward-optimization-for-algorithmic-trading-strategies-on-a-cloud-architecture/)
 - [A simple tutorial on Sampling Importance and Monte Carlo with Python codes](http://www.sefidian.com/2022/08/01/sampling-importance-and-monte-carlo-simply-explained/)
 - [BulkBoto3: Python package for fast and parallel transferring a bulk of files to S3 based on boto3!](http://www.sefidian.com/2022/03/28/bulkboto3-python-package-for-fast-and-parallel-transferring-a-bulk-of-files-to-s3-based-on-boto3/)
-- [Walk-forward optimization for algorithmic trading strategies on cloud architecture](http://www.sefidian.com/2021/12/26/walk-forward-optimization-for-algorithmic-trading-strategies-on-a-cloud-architecture/)
+- [Setup collaborative MLflow with PostgreSQL as Tracking Server and MinIO as Artifact Store using docker containers](http://www.sefidian.com/2022/08/30/setup-collaborative-mlflow-with-postgresql-as-tracking-server-and-minio-as-artifact-store-using-docker-containers/)
 - Find out more on my [Blog](http://www.sefidian.com/archives/)
 
 
