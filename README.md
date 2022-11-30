@@ -62,8 +62,37 @@ Welcome to my Github page!
 - [A simple tutorial on Sampling Importance and Monte Carlo with Python codes](http://www.sefidian.com/2022/08/01/sampling-importance-and-monte-carlo-simply-explained/)
 - [BulkBoto3: Python package for fast and parallel transferring a bulk of files to S3 based on boto3!](http://www.sefidian.com/2022/03/28/bulkboto3-python-package-for-fast-and-parallel-transferring-a-bulk-of-files-to-s3-based-on-boto3/)
 - [Setup collaborative MLflow with PostgreSQL as Tracking Server and MinIO as Artifact Store using docker containers](http://www.sefidian.com/2022/08/30/setup-collaborative-mlflow-with-postgresql-as-tracking-server-and-minio-as-artifact-store-using-docker-containers/)
-- Find out more on my [Blog](http://www.sefidian.com/archives/)
+- Find out more about the following topics on my [Blog](http://www.sefidian.com/archives/):
 
+[Python](https://www.sefidian.com/category/Python) - 
+[Artificial Intelligence](https://www.sefidian.com/category/Artificial-Intelligence) - 
+[Data Science](https://www.sefidian.com/category/Data-Science) - 
+[Machine Learning](https://www.sefidian.com/category/Machine-Learning) - 
+[Reinforcement Learning](https://www.sefidian.com/category/Reinforcement-Learning) - 
+[Deep Learning](https://www.sefidian.com/category/Deep-Learning) - 
+[Computer Vision](https://www.sefidian.com/category/Computer-Vision) - 
+[Data Engineering](https://www.sefidian.com/category/Data-Engineering) - 
+[Feature Engineering](https://www.sefidian.com/category/Feature-Engineering) - 
+[PyTorch](https://www.sefidian.com/category/PyTorch) - 
+[Keras](https://www.sefidian.com/category/Keras) - 
+[TensorFlow](https://www.sefidian.com/category/Tensorflow) - 
+[NLP](https://www.sefidian.com/category/NLP) - 
+[Recommendation Systems](https://www.sefidian.com/category/Recommendation-Systems) - 
+[Time Series](https://www.sefidian.com/category/Time-Series) - 
+[MLOps](https://www.sefidian.com/category/MLOps) - 
+[Big Data](https://www.sefidian.com/category/Big-Data) - 
+[Spark](https://www.sefidian.com/category/Spark) - 
+[Linux](https://www.sefidian.com/category/Linux) - 
+[Apache Kafka](https://www.sefidian.com/category/Apache-Kafka) - 
+[Mathematics](https://www.sefidian.com/category/Mathematics) - 
+[Linear Algebra](https://www.sefidian.com/category/Linear-Algebra) - 
+[Statistics and Probability](https://www.sefidian.com/category/Statistics-and-Probability) - 
+[Finance](https://www.sefidian.com/category/Finance) - 
+[Software Engineering](https://www.sefidian.com/category/Software-Engineering) - 
+[DevOps](https://www.sefidian.com/category/DevOps) - 
+[Django](https://www.sefidian.com/category/Django) - 
+[Docker](https://www.sefidian.com/category/Docker) - 
+[Database](https://www.sefidian.com/category/Database)
 
 
 <h2 align="center">GitHub Stats 📊</h2>
