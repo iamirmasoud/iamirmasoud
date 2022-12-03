@@ -86,7 +86,7 @@ Welcome to my Github page!
 [Apache Kafka](https://www.sefidian.com/category/Apache-Kafka) - 
 [Mathematics](https://www.sefidian.com/category/Mathematics) - 
 [Linear Algebra](https://www.sefidian.com/category/Linear-Algebra) - 
-[Statistics and Probability](https://www.sefidian.com/category/Statistics-and-Probability) - 
+[Statistics and Probability](https://www.sefidian.com/category/Statistics) - 
 [Finance](https://www.sefidian.com/category/Finance) - 
 [Software Engineering](https://www.sefidian.com/category/Software-Engineering) - 
 [DevOps](https://www.sefidian.com/category/DevOps) - 
