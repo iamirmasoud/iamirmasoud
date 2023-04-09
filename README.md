@@ -11,7 +11,7 @@ Welcome to my Github page!
 - 💻 I'm a Machine Learning Engineer who loves learning, developing software, and working on AI projects.
 - 📚 I have a Master's degree in Computer Engineering.
 - 📖 My fields of interest are Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
-- 🎹 I enjoy [playing the piano](https://soundcloud.com/amir-masoud-sefidian) and listening to music.
+- 🎹 I enjoy [playing the piano](https://soundcloud.com/iamirmasoud) and listening to music.
 
 
 ### 💼 Technical Skills
@@ -47,6 +47,7 @@ Welcome to my Github page!
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-gray?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
