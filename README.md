@@ -9,7 +9,6 @@ Welcome to my Github page!
 </h3>
 
 - 💻 I'm a Machine Learning Engineer who loves learning, developing software, and working on AI projects.
-- 📚 I have a Master's degree in Computer Engineering.
 - 📖 My fields of interest are Machine Learning, Data Science, Reinforcement Learning, Deep Learning, etc.
 - 🎹 I enjoy [playing the piano](https://soundcloud.com/iamirmasoud) and listening to music.
 
